@@ -22,8 +22,3 @@ uvloop==0.15.2            # via -r requirements.in
 virtualenv==20.4.7        # via pre-commit
 
 
-
-
-#new
-#added for test
-#test
